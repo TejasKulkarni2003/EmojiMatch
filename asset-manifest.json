@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EmojiMatch.github.io/static/css/main.7d420e8a.css",
+    "main.js": "/EmojiMatch.github.io/static/js/main.aad8d539.js",
+    "static/js/787.b69e386e.chunk.js": "/EmojiMatch.github.io/static/js/787.b69e386e.chunk.js",
+    "static/media/heart.png": "/EmojiMatch.github.io/static/media/heart.625f68db105811d736bd.png",
+    "static/media/devil.png": "/EmojiMatch.github.io/static/media/devil.7f27bf3ae2dfaeb61e96.png",
+    "static/media/surprise.png": "/EmojiMatch.github.io/static/media/surprise.7ceacb6483cc4c7c1015.png",
+    "static/media/exited.png": "/EmojiMatch.github.io/static/media/exited.27b851147bd675c1a93c.png",
+    "static/media/cry.png": "/EmojiMatch.github.io/static/media/cry.93de8a3fd14bfd5c53c6.png",
+    "static/media/angry.png": "/EmojiMatch.github.io/static/media/angry.e76469b4c3d75a2f34bf.png",
+    "static/media/empt.png": "/EmojiMatch.github.io/static/media/empt.12e8841f9fb8b87709a8.png",
+    "static/media/idiot.png": "/EmojiMatch.github.io/static/media/idiot.1bb8380918ba8b62e684.png",
+    "index.html": "/EmojiMatch.github.io/index.html",
+    "main.7d420e8a.css.map": "/EmojiMatch.github.io/static/css/main.7d420e8a.css.map",
+    "main.aad8d539.js.map": "/EmojiMatch.github.io/static/js/main.aad8d539.js.map",
+    "787.b69e386e.chunk.js.map": "/EmojiMatch.github.io/static/js/787.b69e386e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d420e8a.css",
+    "static/js/main.aad8d539.js"
+  ]
+}
