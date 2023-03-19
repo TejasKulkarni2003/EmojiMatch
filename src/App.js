@@ -206,6 +206,10 @@ const dragEnd = (e) => {
                   onDragLeave = {(e)=>e.preventDefault()}
                   onDrop = {dragDrop}
                   onDragEnd = {dragEnd}
+
+                  onTouchStart = {dragStart}
+                  onTouchMove = {dragDrop}
+                  onTouchEnd = {dragEnd}
                   
                 />
             ))}
